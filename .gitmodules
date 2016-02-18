@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/disintegration/imaging"]
+	path = vendor/github.com/disintegration/imaging
+	url = https://github.com/disintegration/imaging.git
